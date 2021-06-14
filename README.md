@@ -1,1 +1,3 @@
-Geo locator API bla bla
+Geo locator API
+Django
+
